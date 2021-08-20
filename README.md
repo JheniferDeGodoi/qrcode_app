@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # qrcode_app
 # qrcode_app
 # qrcode_app
+# app_qrcode
