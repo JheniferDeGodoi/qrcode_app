@@ -8,7 +8,6 @@ void main() {
 class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    var qrCodePage = QRCodePage;
     return MaterialApp(
       title: 'QRCode',
       debugShowCheckedModeBanner: false,
@@ -25,7 +24,7 @@ class App extends StatelessWidget {
         ),
       ),
       themeMode: ThemeMode.dark,
-      home: qrCodePage(),
+      home: QRCodePage(),
     );
   }
 }
