@@ -1,6 +1,6 @@
 # app_qr_code
 
-A new Flutter project.
+App de leitura e validação de QR Code
 
 ## Getting Started
 
@@ -14,9 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# qrcode_app
-# qrcode_app
-# qrcode_app
-# app_qrcode
-# app_qrcode
-# qrcode_app
+
